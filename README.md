@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
 
-### Weblink: [(https://portfolio-z2rg-arjsl5mnx-debdipto-biswas-projects.vercel.app/)]
+### Weblink: [(https://debdiptobiswas.github.io/portfolio/)]
 
 ## Table of Contents
 - [Introduction](#introduction)
