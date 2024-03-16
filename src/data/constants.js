@@ -9,7 +9,7 @@ export const Bio = {
   description:
     "I'm an enthusiastic and adaptable person, constantly seeking new opportunities to excel. Driven by a deep love for learning, I am committed to producing top-notch outcomes. Fueled by optimism and a commitment to personal growth, I am prepared to make a significant impact and accomplish remarkable feats.",
   github: "https://github.com/DebdiptoBiswas",
-  resume: "https://shorturl.at/bjH28",
+  resume: "https://rxresu.me/devdiptobiswas722/resume1",
   linkedin: "https://www.linkedin.com/in/debdipto-biswas-186913247/",
 };
 export const skills = [
@@ -95,7 +95,7 @@ export const skills = [
       {
         name: "Git",
         image:
-          "https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667",
+          "https://i.ibb.co/0jvsmhY/pngegg.png",
       },
       {
         name: "GitHub",
@@ -132,13 +132,13 @@ export const education = [
     img: "https://media.licdn.com/dms/image/D5603AQHjyc5u3DYYyQ/profile-displayphoto-shrink_800_800/0/1687411000525?e=2147483647&v=beta&t=UKUeRr-IQgNSpXl632tn1YQ-Yyl1qTxSLz6uG71PhKI", //not
     school: "Vellore Instutute of Technology, Chennai",
     date: "July 2021 - Sept 2025",
-    grade: "7.54 CGPA",
+    grade: "7.52 CGPA",
     desc: "I am currently pursuing a Bachelor's degree in Computer Science and Engineering at Vellore Instutute of Technology, Chennai. I have completed 5 semesters and have a CGPA of 7.54. I have taken courses in Data Structures, Algorithms, Object-Oriented Programming, Database Management Systems, and Computer Networks, among others.",
     degree: "Bachelor of Technology - BTech, Computer Science and Engineering with speacialisation in Cyber Physical Systems",
   },
   {
     id: 1,
-    img: "https://scontent.fpat1-1.fna.fbcdn.net/v/t39.30808-6/302422098_474926134644245_2938116842851531319_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-dAz6Stnc0EAX8p6CKB&_nc_ht=scontent.fpat1-1.fna&oh=00_AfCITOGpB1v28bVF31ShMl7fkRQaKimoQujHzS1-HB8w9w&oe=6550FEF3",//not working
+    img: "https://i0.wp.com/dpsrkp.net/v1wp_oll/wp-content/uploads/2019/08/logo.png?ssl=1",//not working
     school: "Delhi Public School, Bokaro Steel City",
     date: "Apr 2020 - Mar 2021",
     grade: "94.6%",
@@ -147,7 +147,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://scontent.fpat1-1.fna.fbcdn.net/v/t39.30808-6/302422098_474926134644245_2938116842851531319_n.png?_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=-dAz6Stnc0EAX8p6CKB&_nc_ht=scontent.fpat1-1.fna&oh=00_AfCITOGpB1v28bVF31ShMl7fkRQaKimoQujHzS1-HB8w9w&oe=6550FEF3", //not working
+    img: "https://i0.wp.com/dpsrkp.net/v1wp_oll/wp-content/uploads/2019/08/logo.png?ssl=1", //not working
     school: "Delhi Public School, Bokaro Steel City",
     date: "Apr 2018 - Mar 2019",
     grade: "96.4%",
@@ -166,8 +166,9 @@ export const projects = [
     tags: ["Web cloning","HTML","CSS","Bootstrap","Web development",
     ],
     category: "Bootstrap",
+    image:"https://i.ibb.co/s6z7KJH/Screenshot-2024-03-16-192751.png",
     github: "https://github.com/DebdiptoBiswas/TinDogProject",
-    website :"https://debdiptobiswas.github.io/TinDogProject/",
+    webapp :"https://debdiptobiswas.github.io/TinDogProject/",
   },
   {
     id: 0,
@@ -179,8 +180,9 @@ export const projects = [
     tags: [
       "Website-Audio-Response", "HTML", "CSS", "Javascript",  ],
     category: "Javascript",
+    image:"https://i.ibb.co/XYBpVgQ/Screenshot-2024-03-16-192630.png",
     github: "https://github.com/DebdiptoBiswas/DrumKit",
-    website: "https://debdiptobiswas.github.io/DrumKit/",
+    webapp: "https://debdiptobiswas.github.io/DrumKit/",
   },
   {
     id: 1,
@@ -195,9 +197,10 @@ export const projects = [
       "CSS",
       "Gaming-website",
     ],
+    image: "https://i.ibb.co/7bbvnBW/Screenshot-2024-03-16-192503.png",
     category: "Javascript",
     github: "https://github.com/DebdiptoBiswas/TheDiceeGame",
-    website: " https://debdiptobiswas.github.io/TheDiceeGame/",
+    webapp: " https://debdiptobiswas.github.io/TheDiceeGame/",
   },
 
   {
@@ -209,7 +212,8 @@ export const projects = [
     tags: [
       "Bootstrap", "HTML", "CSS"],
     category: "Bootstrap",
+    image : "https://i.ibb.co/vjzRX5v/Screenshot-2024-03-16-191951.png",
     github: "https://github.com/DebdiptoBiswas/Web-Design-Agency-Project",
-    website : "https://debdiptobiswas.github.io/Web-Design-Agency-Project/",
+    webapp : "https://debdiptobiswas.github.io/Web-Design-Agency-Project/",
   },
 ];
